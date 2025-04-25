@@ -1,0 +1,5 @@
+sshkey-terraform_public_key.pem
+.terraform
+terraform*
+ubuntu*
+.terraform*
